@@ -1,1 +1,1 @@
-#
+The App is used in ordering food in hotels. It provides the available food categories in a menu and gives the customers a chance to place their order. You just have to click one of the available food type and you will have placed your order. The menu also contains the prices of the foods available.
